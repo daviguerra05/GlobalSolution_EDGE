@@ -14,11 +14,11 @@ Atualmente, a tecnologia é cada vez mais presente na vida cotidiana, inclusive 
 
 ## Sobre a solução
 
-Utilizamos o site https://wokwi.com/ para simular o uso do esp32 e fazer uma comunição (MQTT) com o servidor da https://tago.io/. 
+Para esta solução do projeto Health Buddy, utilizamos o site https://wokwi.com/ para simular a operação do ESP32 e estabelecer comunicação via MQTT com o servidor da https://tago.io/.
 
-Como parte do projeto Health Buddy, o objetivo dessa solução foi simular o recebimento e envio dos dados vindos dos sensores de temperatura corporal e pressão arterial.
+O objetivo foi a simulação do recebimento e envio de dados provenientes dos sensores de temperatura corporal e pressão arterial.
 
-Devido à limitações do https://wokwi.com/, foi ultizado um DHT22 para emular a temperatura corporal e dois potenciometros para emular a pressão arterial.
+Dada as restrições do https://wokwi.com/, optamos por empregar um sensor DHT22 para emular a leitura da temperatura corporal, enquanto dois potenciômetros foram utilizados para simular a medição da pressão arterial.
 
 
 ![image](https://github.com/daviguerra05/GlobalSolution_EDGE/assets/126623966/bd40a414-bc2b-4e26-a740-f0da7b7f8f0b)
