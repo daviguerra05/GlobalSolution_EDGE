@@ -45,8 +45,8 @@ Dada as restrições do https://wokwi.com/, optamos por empregar um sensor DHT22
 - **9x** Jumpercables
 ## Autores
 
-- [Davi Passanha de Sousa Guerra - RM551605 - 1ESPW](https://www.github.com/daviguerra05)
-- [Rui Amorim Siqueira - RM98436 - 1ESPW](https://github.com/ruiasiqueira)
+- [Davi Passanha de Sousa Guerra - 1ESPW](https://www.github.com/daviguerra05)
+- [Rui Amorim Siqueira - 1ESPW](https://github.com/ruiasiqueira)
 
 
 ## Ultilização
